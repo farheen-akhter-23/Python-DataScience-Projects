@@ -2,4 +2,4 @@
 
 **Problem Statements**
 
-**Conducting sentimental analysis to understand people s future reactions to Squid game**
+1. Conducting sentimental analysis to understand people s future reactions to Squid game
