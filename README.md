@@ -21,3 +21,6 @@ https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/e
 - Then Finally Kmeans clustering and determining the recomendations over movies
 - **Keywords**(KMeans Clustering , Collaborative Filtering)
 
+
+https://github.com/FarheenAkhter786/PythonDataScienceProjects/assets/144804109/26061762-8b62-4834-8b1e-00724a97f488
+
