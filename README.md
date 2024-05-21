@@ -1,6 +1,6 @@
 # Python DataScience Projects
 
-This is a repository where all my projects related to data scince , data analytics , visualizations will reside. I will be updating it regularly!
+This is a repository where all my projects related to data science , data analytics , visualizations will reside. I will be updating it regularly!
 
 ## Projects
 
